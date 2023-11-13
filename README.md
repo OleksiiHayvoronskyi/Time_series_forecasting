@@ -4,19 +4,20 @@
 ## Overview
 
 This repository contains code and documentation for performing time series analysis 
-on the USA Real Estate Dataset. You can download the dataset to the next link:
+on the USA Real Estate Dataset.
+<br>You can download the dataset to the next link:
 *https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data*
 
 **The primary goal of this project** is to explore trends, carefully study the past patterns,
-and make meaningful future predictions related to real estate prices over time.
-For this purpose I used **Holt-Winters**, **SARIMAX**, and **ARIMA** algorithms.
-At the end of the analysis, I compare all of these models to know which one is better.
+<br>and make meaningful future predictions related to real estate prices over time.
+<br>For this purpose I used **Holt-Winters**, **SARIMAX**, and **ARIMA** algorithms.
+<br>At the end of the analysis, I compare all of these models to know which one is better.
 
 
 ## Dataset
 
 **The USA Real Estate Dataset** is used for this analysis.
-This dataset contains Real Estate listings in the US broken by State and zip code.
+<br>This dataset contains Real Estate listings in the US broken by State and zip code.
 
 **Content**
 
@@ -89,7 +90,7 @@ Clone this repository:
 
 
 ## Contributors
-Oleksii Haivoronskyi
+***Oleksii Haivoronskyi***
 
 
 
