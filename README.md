@@ -6,7 +6,7 @@
 This repository contains code and documentation for performing time series analysis 
 on the USA Real Estate Dataset.
 <br>You can download the dataset to the next link:
-*https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data*
+<br>*https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data*
 
 **The primary goal of this project** is to explore trends, carefully study the past patterns,
 <br>and make meaningful future predictions related to real estate prices over time.
@@ -23,17 +23,16 @@ on the USA Real Estate Dataset.
 
 The dataset has 1 CSV file with 10 columns:
 
-1. realtor-data.zip.csv (900k+ entries)
-2. status (Housing status - a. ready for sale or b. ready to build)
-3. bed (# of beds)
-4. bath (# of bathrooms)
-5. acre_lot (Property / Land size in acres)
-6. city (city name)
-7. state (state name)
-8. zip_code (postal code of the area)
-9. house_size (house area/size/living space in square feet)
-10. prev_sold_date (Previously sold date)
-11. price (Housing price, it is either the current listing price 
+1. status (Housing status - a. ready for sale or b. ready to build)
+2. bed (# of beds)
+3. bath (# of bathrooms)
+4. acre_lot (Property / Land size in acres)
+5. city (city name)
+6. state (state name)
+7. zip_code (postal code of the area)
+8. house_size (house area/size/living space in square feet)
+9. prev_sold_date (Previously sold date)
+10. price (Housing price, it is either the current listing price 
            or recently sold price if the house is sold recently)
 
 
