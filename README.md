@@ -8,10 +8,12 @@ on the USA Real Estate Dataset.
 <br>You can download the dataset to the next link:
 <br>*https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data*
 
-**The primary goal of this project** is to explore trends, carefully study the past patterns,
-<br>and make meaningful future predictions related to real estate prices over time.
-<br>For this purpose I used **Holt-Winters**, **SARIMAX**, and **ARIMA** algorithms.
-<br>At the end of the analysis, I compare all of these models to know which one is better.
+In this project, I focused on time series analysis, exploring trends, 
+<br>studying past patterns, and making meaningful future predictions
+<br>related to real estate prices over time.
+<br>For this purpose, I employed the Holt-Winters, SARIMAX, and ARIMA algorithms.
+<br>At the end of the analysis, I compared all these models to determine
+<br>which one performed better.
 
 
 ## Dataset
@@ -59,11 +61,11 @@ The dataset has 1 CSV file with 10 columns:
 9. Holt Winters Algorithm.
 <br>9.1. Metrics of Holt-Winters Algorithm.
 10. SARIMAX Algorithm.
-<br>10.1. Finding the optimum parameters with Auto_arima.
+<br>10.1. Finding the optimum parameters with Auto-arima.
 <br>10.2. Training SARIMAX model.
 <br>10.3. Metrics of SARIMAX model.
 11. ARIMA Algorithm.
-<br>11.1. Finding the optimum parameters with Auto_arima.
+<br>11.1. Finding the optimum parameters with Auto-arima.
 <br>11.2. Training ARIMA model.
 <br>11.3. Metrics of ARIMA model.
 12. Comparison: ARIMA vs SARIMAX vs Holt-Winters.
@@ -85,7 +87,7 @@ Ensure you have the following installed:
 ## Usage
 
 Clone this repository:
-*git clone https://github.com/OleksiiHayvoronskyi/Time_series_forecasting.git*
+*git clone https://github.com/OleksiiHayvoronskyi/Time_series_forecasting/blob/master/USA_Real_Estate_time_series_forecasting.ipynb*
 
 
 ## Contributors
